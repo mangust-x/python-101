@@ -1,2 +1,1 @@
-# python-101
-Course
+# Welcome
